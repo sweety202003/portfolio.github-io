@@ -187,9 +187,9 @@ color:blue;
 .service .card{
     background:burlywood;
     box-shadow:10px 10px 10px green;
-    width:25%;
-    height:30vh;
-    gap:10px;
+    width:20%;
+    height:20vh;
+    gap:12px;
     justify-content: center;
     justify-items: center;
     text-align: center;
